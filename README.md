@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lendysgo
-- 👀 Ярослав 18 yo 
+- 👀 Ярослав 18 yo КНМО - 101
 <!---
 Lendysgo/Lendysgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
