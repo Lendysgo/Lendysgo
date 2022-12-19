@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div id="badges">
   <a href="https://vk.com/cursedxdd">
-    <img src="https://img.shields.io/badge/VK-cursedxdd-blue?logo=VK&logoColor=white" alt="Vkontakte Badge" width="100"/>
+    <img src="https://img.shields.io/badge/VK-cursedxdd-blue?logo=VK&logoColor=white" alt="Vkontakte Badge" width="110"/>
   </a>
   <a href="https://www.youtube.com/channel/UCZs-HItl9B3Qy4AiPDnWCFw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="80"/>
