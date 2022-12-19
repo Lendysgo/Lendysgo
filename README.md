@@ -11,7 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 <div id="badges" aling="right">
     href="https://vk.com/cursedxdd">
-    <img src="https://i.pinimg.com/originals/48/3c/c8/483cc8ab59a5562b0a92b9759b5b8ffa.png" alt="CURSEDXDD"/>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="TELEGRAM"/>
-  </a>
+    <img src="https://i.pinimg.com/originals/48/3c/c8/483cc8ab59a5562b0a92b9759b5b8ffa.png" alt="CURSEDXDD" width="300"/>
+ 
