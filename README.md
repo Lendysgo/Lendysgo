@@ -9,13 +9,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media4.giphy.com/media/eR7OEDQDyA7Cg/giphy.gif?cid=790b76112935100f3ecc4cb027bac254b7aed7eb72fe3c0a&rid=giphy.gif&ct=g" width="330"/>
 </div>
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/cursedxdd">
+    <img src="https://img.shields.io/badge/VK-cursedxdd-blue?logo=VK&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCZs-HItl9B3Qy4AiPDnWCFw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/lendyszz">
+    <img src="https://img.shields.io/badge/telegram-black?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
