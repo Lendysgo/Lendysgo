@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 <div id="badges" aling="right">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="CURSEDXDD"/>
   </a>
