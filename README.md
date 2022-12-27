@@ -24,3 +24,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/telegram-black?logo=telegram&logoColor=white" alt="Telegram Badge" width="100"/>
   </a>
 </div>
+
+<div id="vk_playlist_447981308_222"></div>
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?169"></script>
+<script type="text/javascript">
+  (function() {
+    VK.Widgets.Playlist("vk_playlist_447981308_222", 447981308, 222,'bab3a82f5b443a3d21');
+  }());
+</script>
