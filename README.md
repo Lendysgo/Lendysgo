@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lendysgo 
-- 👀 Ярослав 18 yo КНМО - 101
+- 👀 Ярослав 19 yo КН - 201
 - ***✨Favorite Language***
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="25" height="25"/>&nbsp;
