@@ -26,6 +26,5 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lendysgo&theme=solarized_dark)
 
 
